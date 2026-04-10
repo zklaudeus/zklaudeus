@@ -16,7 +16,7 @@
 
 ### 📜 自己紹介 (El Pergamino - Sobre mí)
 
-Soy un **Full Stack Developer** apasionado por la fusión entre la disciplina tradicional y la tecnología de vanguardia. Mi enfoque se centra en construir aplicaciones web ultra-rápidas, escalables y visualmente impactantes.
+Soy un **Full Stack Developer** apasionado por la fusión entre la disciplina tradicional y la tecnología de vanguardia. Mi enfoque se centra en construir aplicaciones web ultra-rápidas y escalables.
 
 - ⚔️ **Especialidad:** Next.js, React & Node.js
 - 🏮 **Filosofía:** "Siete veces cae, ocho veces levanta" (七転び八起き)
