@@ -1,9 +1,6 @@
 <div align="center">
 
 # ⛩️ zklaudeus ⛩️
-
-![Cyber Samurai Sumi-e](https://raw.githubusercontent.com/zklaudeus/zklaudeus/main/banner.png)
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Modern+Tech+Samurai;Crafting+Digital+Blades;Based+in+Chile+🇨🇱)](https://git.io/typing-svg)
