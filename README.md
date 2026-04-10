@@ -59,15 +59,13 @@ Soy un **Full Stack Developer** apasionado por la fusión entre la disciplina tr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zklaudeus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/claudioach)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zklaudeus.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zklaudeus)
+
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zklaudeus/zklaudeus/main/small-katana-divider.png" width="400" />
-</div>
+
   
