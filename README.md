@@ -49,8 +49,7 @@ Soy un **Full Stack Developer** apasionado por la fusión entre la disciplina tr
 <div align="center">
 
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zklaudeus&theme=radical&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=F1FAEE&sideLabels=F1FAEE&dates=F1FAEE&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=zklaudeus&theme=radical&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=F1FAEE&sideLabels=F1FAEE&dates=F1FAEE&hide_border=true)
 
 </div>
 
@@ -60,7 +59,7 @@ Soy un **Full Stack Developer** apasionado por la fusión entre la disciplina tr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/claudioach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudioach)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zklaudeus.dev)
 
 
