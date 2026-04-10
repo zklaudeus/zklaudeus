@@ -20,8 +20,7 @@ Soy un **Full Stack Developer** apasionado por la fusión entre la disciplina tr
 
 - ⚔️ **Especialidad:** Next.js, React & Node.js
 - 🏮 **Filosofía:** "Siete veces cae, ocho veces levanta" (七転び八起き)
-- 📡 **Ubicación:** Santiago, Chile 🇨🇱
-- 🎌 **Intereses:** Cultura Japonesa, Anime, Diseño UI/UX minimalista y Performance Extrema.
+- 📡 **Ubicación:** Concepción, Chile 🇨🇱
 
 ---
 
