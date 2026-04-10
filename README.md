@@ -47,13 +47,7 @@ Soy un **Full Stack Developer** apasionado por la fusión entre la disciplina tr
 
 <div align="center">
 
-![zklaudeus github stats](https://github-readme-stats.vercel.app/api?username=zklaudeus&show_icons=true&theme=radical&bg_color=0D1117&title_color=E63946&text_color=F1FAEE&icon_color=E63946&hide_border=true)
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zklaudeus&layout=compact&theme=radical&bg_color=0D1117&title_color=E63946&text_color=F1FAEE&hide_border=true)
-
-<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zklaudeus&theme=radical&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=F1FAEE&sideLabels=F1FAEE&dates=F1FAEE&hide_border=true)
 
