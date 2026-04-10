@@ -3,7 +3,7 @@
 # ⛩️ zklaudeus ⛩️
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Modern+Tech+Samurai;Crafting+Digital+Blades;Based+in+Chile+🇨🇱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Based+in+Chile+🇨🇱)](https://git.io/typing-svg)
 
 <p align="center">
   <i>"El código es mi espada, la arquitectura mi armadura."</i><br/>
